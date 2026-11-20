@@ -1,0 +1,7 @@
+# 只公开脚本。词典文件、阅读器自带词库、第三方工具都不进仓库
+*
+!.gitignore
+!README.md
+!LICENSE
+!*.py
+!*.ps1
